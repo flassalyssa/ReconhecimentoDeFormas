@@ -2,7 +2,7 @@
 
 Este é um guia em vídeo que mostra como configurar o Chaquopy em seu projeto Android.
 
-[![Assista ao Vídeo](https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1DdGokJYVDRtfx3oZOICHFjyGZ7VamhrD/view?usp=sharing)](https://drive.google.com/file/d/1DdGokJYVDRtfx3oZOICHFjyGZ7VamhrD/view?usp=sharing)
+[![Assista ao Vídeo](https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1HbkvqlXCuR3ibPFKbNB8tEChY6AQItEK/view?usp=sharing)](https://drive.google.com/file/d/1HbkvqlXCuR3ibPFKbNB8tEChY6AQItEK/view?usp=sharing)
 
 ## Introdução
 
